@@ -1,4 +1,4 @@
-package starter.navigation;
+package co.com.devco.airbnb.navigation;
 
 import net.serenitybdd.annotations.DefaultUrl;
 import net.thucydides.core.pages.PageObject;

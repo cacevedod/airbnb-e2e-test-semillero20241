@@ -1,4 +1,4 @@
-package starter.navigation;
+package co.com.devco.airbnb.navigation;
 
 import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.Task;

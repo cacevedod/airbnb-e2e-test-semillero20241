@@ -1,4 +1,4 @@
-package starter.search;
+package co.com.devco.airbnb.search;
 
 import net.serenitybdd.screenplay.targets.Target;
 
